@@ -1,0 +1,14 @@
+{
+  "name": "utilt01",
+  "version": "1.0.6",
+  "description": "日常开发工具函数",
+  "main": "handleFunction.common.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "debounce"
+  ],
+  "author": "1752146907@GitHub",
+  "license": "ISC"
+}
