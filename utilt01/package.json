@@ -1,6 +1,6 @@
 {
   "name": "utilt01",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "日常开发工具函数",
   "main": "handleFunction.common.js",
   "scripts": {

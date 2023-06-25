@@ -23,8 +23,14 @@ npm init -y
 安装：npm i utilt01
 
 引入：import { debounce } from 'utilt01';
+引入：import { isvalidEmail } from 'utilt01';
+引入：import { isvalidMobile } from 'utilt01';
+引入：import { distinct } from 'utilt01';
 ```
 ### 已有方法
 ```
 ·debounce //防抖
+·isvalidEmail //校验邮箱
+·isvalidMobile //校验手机
+·distinct //数组去重
 ```
